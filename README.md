@@ -8,8 +8,6 @@
 <br>
  🤍 All of my README's projects are avaliable in english 🇺🇸 and portuguese 🇧🇷
 <br>
-<br>
-
 
 __________________________________________________________________________________________
 <br>
