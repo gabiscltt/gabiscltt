@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**gabiscltt/gabiscltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Gabriela and that's my repository :)
+- I'm highly passionate about technology and I'm always ready to new challenges.
 
-Here are some ideas to get you started:
+- All my pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <a href="https://github.com/gabiscltt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiscltt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiscltt&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+ 
