@@ -3,7 +3,7 @@
  🤍 I'm Gabriela | Developer
 <br>
 <br>
- 🤍I'm highly passionate about technology and I'm always ready to new challenges
+ 🤍 I'm highly passionate about technology and I'm always ready to new challenges
 <br>
 <br>
  🤍 All of my README's projects are avaliable in english 🇺🇸 and portuguese 🇧🇷
